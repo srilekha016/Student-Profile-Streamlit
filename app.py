@@ -15,6 +15,4 @@ if st.button("View My Profile"):
         st.write("USN Number:", usn_no)
         st.write("Department:", department)
         st.write("Year:", year)
-    else:
-        st.warning("Please enter your name and usn number.")
 
